@@ -5,6 +5,10 @@
 ## Preview
 
 
+https://user-images.githubusercontent.com/65702724/143461521-408b3245-e56e-476e-bea2-ad4b14c8fa26.mp4
+
+
+
 ## Steps to access it locally➡️
 
 ##### Commands:
